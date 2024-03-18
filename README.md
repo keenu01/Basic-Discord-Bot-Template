@@ -35,7 +35,7 @@ Firslty install the following using PIP.:
 1. Clone this repository to your local machine.
 2. Set up the necessary configurations such as language, API key, and Discord bot token.
 3. Run the bot using your Discord bot token.
-4. Invite Hitori to your Discord server using the invite link provided.
+(Make sure the bot is inside the server you want)
 
 ### Usage
 
