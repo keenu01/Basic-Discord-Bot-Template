@@ -1,84 +1,46 @@
+um hi and this is Bocchi the uh discord bot. Her code was designed to be simple and easy to replicate (i think anyway) Her code can be used with my FULL permission.. the youtube downloader might be illegal however.(the music_cog)-keenu!
+
 # Hitori Discord Bot
 
-um hi and this is Bocchi the uh discord bot. Her code was designed to be simple and easy to replicate (i think anyway) Her code can be used with my FULL permission.. the youtube downloader might be illegal however.(the music_cog)-keenu!
+Welcome to Hitori, your friendly neighborhood Discord bot! Hitori is a versatile bot capable of handling various commands and interactions. It includes features for chatting, playing games, playing music from YouTube, and more!
 
 ## Features
 
 ### Chatting
-- **/chat**: Engage in conversation with Hitori using natural language.
+- Engage in conversation with Hitori using natural language.
+- Configure Hitori to respond in a specific character's manner and tone.
 
 ### Games
-- **/dice**: Roll a dice and see your luck!
-- **/rps**: Play Rock, Paper, Scissors with Hitori.
-- **/cflip**: Flip a coin and see if luck favors you.
+- Play Rock, Paper, Scissors with Hitori.
+- Roll a dice and see your luck.
+- Flip a coin and test your fate.
 
-### Fun Commands
-- **/force_say**: Make Hitori say anything you want! (Keep it appropriate, please.)
+### Music
+- Play music from YouTube in voice channels.
+- Pause, resume, skip songs, and view the music queue.
+- Clear the music queue or disconnect the bot from the voice channel.
 
 ### Utility
-- **/setup_music**: Set up the music cog to enjoy some tunes with Hitori.
-- **/serverinfo**: Get detailed information about the server.
-
-### NSFW (18+)
-- **/rr34**: Explore the rule34 website for random images. (NSFW)
-- - **/i_came**: Discover the top 100 "came on" characters. (NSFW)
-
-### Miscellaneous
-- **/invite_code**: Get the invite link to add Hitori to your server.
-- 
+- View detailed information about the server.
+- Explore the top 100 "came on" characters from the rule34 website (NSFW).
 
 ## Getting Started
 
-1. Invite Hitori to your Discord server using the invite link.
-2. Set up the necessary configurations such as language, API key, etc., in the code.
+1. Clone this repository to your local machine.
+2. Set up the necessary configurations such as language, API key, and Discord bot token.
 3. Run the bot using your Discord bot token.
+4. Invite Hitori to your Discord server using the invite link provided.
 
 ## Usage
 
 To use any command, simply type the designated prefix followed by the command name. For example:
-/chat Hello!
-
-##
-
-##
 
 
-# Music Cog for Hitori Discord Bot
+## Music Cog
 
-The Music Cog provides functionality for playing music in voice channels on the Hitori Discord Bot.
-
-## Features
-
-- Play music from YouTube
-- Pause and resume playback
-- Skip current song
-- Display queue of upcoming songs
-- Clear the music queue
-- Disconnect bot from voice channel
-- Remove last song from queue
-
-## Usage
-
-1. **Play a Song**: Use the `!play` command followed by the song name or YouTube link.
-2. **Pause/Resume Playback**: Use the `!pause` and `!resume` commands.
-3. **Skip Song**: Use the `!skip` command.
-4. **Display Queue**: Use the `!queue` command.
-5. **Clear Queue**: Use the `!clear` command.
-6. **Disconnect Bot**: Use the `!stop` command.
-
-## Command Examples
-
-- `!play Despacito`
-- `!pause`
-- `!resume`
-- `!skip`
-- `!queue`
-- `!clear`
-- `!stop`
-
+The Music Cog provides functionality for playing music in voice channels. It allows users to search and play songs from YouTube, manage the music queue, and control playback.(possibly illegal)
 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
