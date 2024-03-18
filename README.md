@@ -38,10 +38,12 @@ um hi and this is Bocchi the uh discord bot. Her code was designed to be simple 
 To use any command, simply type the designated prefix followed by the command name. For example:
 /chat Hello!
 
+##
+
+##
 
 
-
-## Music Cog for Hitori Discord Bot
+# Music Cog for Hitori Discord Bot
 
 The Music Cog provides functionality for playing music in voice channels on the Hitori Discord Bot.
 
