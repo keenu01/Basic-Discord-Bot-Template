@@ -1,5 +1,12 @@
 um hi and this is Bocchi the uh discord bot. Her code was designed to be simple and easy to replicate (i think anyway) Her code can be used with my FULL permission.. the youtube downloader might be illegal however.(the music_cog)-keenu!
 
+### Required Pip-Installs
+```
+!pip install openai
+!pip install discord.py
+!pip install rule34py
+!pip install pillow
+````
 # Hitori Discord Bot
 
 Welcome to Hitori, your friendly neighborhood Discord bot! Hitori is a versatile bot capable of handling various commands and interactions. It includes features for chatting, playing games, playing music from YouTube, and more!
