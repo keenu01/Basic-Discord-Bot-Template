@@ -41,7 +41,7 @@ To use any command, simply type the designated prefix followed by the command na
 
 
 
-# Music Cog for Hitori Discord Bot
+## Music Cog for Hitori Discord Bot
 
 The Music Cog provides functionality for playing music in voice channels on the Hitori Discord Bot.
 
