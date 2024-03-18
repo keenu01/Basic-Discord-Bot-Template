@@ -20,9 +20,12 @@ Welcome to Hitori, your friendly neighborhood Discord bot! Hitori is a versatile
 - Pause, resume, skip songs, and view the music queue.
 - Clear the music queue or disconnect the bot from the voice channel.
 
+### NSFW!
+- Search the Rule 34 website and obtain images of your.. favourtie..character..(NSFW)
+- Explore the top 100 "came on" characters from the rule34 website (NSFW).
 ### Utility
 - View detailed information about the server.
-- Explore the top 100 "came on" characters from the rule34 website (NSFW).
+
 
 ## Getting Started
 Firslty install the following using PIP.:
