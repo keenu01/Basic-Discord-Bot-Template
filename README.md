@@ -37,12 +37,12 @@ Welcome to Hitori, your friendly neighborhood Discord bot! Hitori is a versatile
 3. Run the bot using your Discord bot token.
 4. Invite Hitori to your Discord server using the invite link provided.
 
-## Usage
+### Usage
 
 To use any command, simply type the designated prefix followed by the command name. For example:
 
 
-## Music Cog
+### Music Cog
 
 The Music Cog provides functionality for playing music in voice channels. It allows users to search and play songs from YouTube, manage the music queue, and control playback.(possibly illegal)
 
