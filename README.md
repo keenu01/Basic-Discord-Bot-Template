@@ -46,7 +46,7 @@ To use any command, simply type the designated prefix followed by the command na
 
 The Music Cog provides functionality for playing music in voice channels. It allows users to search and play songs from YouTube, manage the music queue, and control playback.(possibly illegal)
 
-##Keenu's Note
+## Keenu's Note
 um hi and this is Bocchi the uh discord bot. Her code was designed to be simple and easy to replicate (i think anyway) Her code can be used with my FULL permission.. the youtube downloader might be illegal however.(the music_cog)-keenu!
 
 ## License
