@@ -3,13 +3,7 @@
 
 Welcome to Hitori, your friendly neighborhood Discord bot! Hitori is a versatile bot capable of handling various commands and interactions. It includes features for chatting, playing games, playing music from YouTube, and more!
 
-### Required Pip-Installs
-```
-!pip install openai
-!pip install discord.py
-!pip install rule34py
-!pip install pillow
-````
+
 ## Features
 
 ### Chatting
@@ -31,7 +25,13 @@ Welcome to Hitori, your friendly neighborhood Discord bot! Hitori is a versatile
 - Explore the top 100 "came on" characters from the rule34 website (NSFW).
 
 ## Getting Started
-
+Firslty install the following using PIP.:
+```
+!pip install openai
+!pip install discord.py
+!pip install rule34py
+!pip install pillow
+````
 1. Clone this repository to your local machine.
 2. Set up the necessary configurations such as language, API key, and Discord bot token.
 3. Run the bot using your Discord bot token.
