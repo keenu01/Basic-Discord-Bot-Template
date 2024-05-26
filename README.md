@@ -1,7 +1,8 @@
 
 # Hitori Discord Bot
 
-**(WARNING:HORRIBLY WRITTEN CODE UPAHEAD.. do not use.. pls..)**\n
+**(WARNING:HORRIBLY WRITTEN CODE UPAHEAD.. do not use.. pls..)**
+
 Welcome to Hitori, your friendly neighborhood Discord bot! Hitori is a versatile bot capable of handling various commands and interactions. It includes features for chatting, playing games, playing music from YouTube, and more!
 
 
